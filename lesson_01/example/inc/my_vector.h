@@ -1,0 +1,3 @@
+//nothing
+
+void hello();
